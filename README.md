@@ -29,6 +29,9 @@ The knowledge on attacks contained in **Cyber Threat Intelligence (CTI)** report
 ## **Environment**
 
 this code supports python3
+```
+python3.7 -m venv threatext
+```
 
 ### **spacy**
 
