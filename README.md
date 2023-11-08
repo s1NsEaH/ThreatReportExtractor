@@ -1,12 +1,3 @@
-<!--
- * @Author: Kun
- * @Date: 2021-09-16 11:11:28
- * @LastEditTime: 2023-04-29 06:15:22
- * @LastEditors: Kun
- * @Description: 
- * @FilePath: /my_open_projects/ThreatReportExtractor/README.md
--->
-
 # **ThreatReportExtractor**
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/jackaduma/ThreatReportExtractor)
@@ -40,7 +31,7 @@ The knowledge on attacks contained in **Cyber Threat Intelligence (CTI)** report
 ------
 ## **Environment**
 
-this code supports python3; not support python2
+this code supports python3
 
 ### **spacy**
 
@@ -73,8 +64,8 @@ git submodule update
 download pretrain model for allennlp
 
 ```bash
-wget -c -t 0 https://s3-us-west-2.amazonaws.com/allennlp/models/srl-model-2018.05.25.tar.gz
-mv srl-model-2018.05.25.tar.gz srl-model.tar.gz  # in current dir
+wget -c -t 0 https://storage.googleapis.com/allennlp-public-models/openie-model.2020.03.26.tar.gz
+mv openie-model.2020.03.26.tar.gz srl-model.tar.gz  # in current dir
 ```
 
 ------
