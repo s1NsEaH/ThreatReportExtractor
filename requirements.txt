@@ -12,3 +12,4 @@ nltk==3.6.3
 jsonnet==0.10.0
 jsonnet-binary==0.17.0
 jsonnetbin==0.16.0
+packaging==21.3
