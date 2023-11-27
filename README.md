@@ -54,6 +54,7 @@ download nltk when setting param crf is false
 ```python
 import nltk
 nltk.download('averaged_perceptron_tagger')
+nltk.download('punkt')
 ```
 ------
 
