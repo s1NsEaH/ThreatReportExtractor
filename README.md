@@ -32,8 +32,8 @@ this code supports python3
 ```
 sudo add-apt-repository ppa:deadsnakes/ppa
 sudo apt install python3.7 python3.7-venv
-source ThreatRE/bin/activate
 python3.7 -m venv ThreatRE
+source ThreatRE/bin/activate
 python -m pip install pip==23.3.1
 ```
 
