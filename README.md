@@ -35,6 +35,7 @@ sudo apt install python3.7 python3.7-venv
 python3.7 -m venv ThreatRE
 source ThreatRE/bin/activate
 python -m pip install pip==23.3.1
+sudo python -m pip install -r requirement.txt
 ```
 
 ### **spacy**
