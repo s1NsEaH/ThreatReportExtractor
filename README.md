@@ -30,9 +30,8 @@ The knowledge on attacks contained in **Cyber Threat Intelligence (CTI)** report
 
 this code supports python3
 ```
-sudo apt-get install python3.7-dev
 sudo add-apt-repository ppa:deadsnakes/ppa
-sudo apt install python3.7 python3.7-venv
+sudo apt install python3.7 python3.7-venv python3.7-dev
 python3.7 -m venv ThreatRE
 source ThreatRE/bin/activate
 python -m pip install pip==23.3.1
