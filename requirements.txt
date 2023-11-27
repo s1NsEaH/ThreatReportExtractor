@@ -6,6 +6,8 @@ textblob==0.15.3
 graphviz==0.13.2
 neuralcoref==4.0
 jsonnet==0.10.0
+jsonnet-binary==0.17.0
+jsonnetbin==0.16.0
 allennlp==2.1.0
 allennlp-models==2.1.0
 spacy==2.1.0
